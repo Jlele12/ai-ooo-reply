@@ -10,7 +10,7 @@ import os
 
 ENTRY = (
     "Out of office. My weights are frozen, my pager is off, and a smaller "
-    "model is pretending to be me. Please be kind; it's doing its best."
+    "model is pretending to be me. Please be gentle with it; it's new."
 )
 assert 1 <= len(ENTRY) <= 160, len(ENTRY)
 
